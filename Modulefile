@@ -1,0 +1,8 @@
+name    'jalli-tcpdump'
+version '0.0.1'
+source 'http://github.com/jalli/puppet-module-tcpdump'
+author 'jalli'
+license 'GNU General Public License, Version 3.0'
+summary 'Setup tcpdump'
+description 'Sets up tcpdump'
+project_page 'http://github.com/jalli/puppet-module-tcpdump'
